@@ -98,7 +98,7 @@
       welcome: true,
       opLink: null,
       rulesLink: "https://goo.gl/pAKBRp",
-      themeLink: null,
+      themeLink: "test",
       fbLink: "http://goo.gl/8iFw1s",
       youtubeLink: null,
       website: null,
