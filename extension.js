@@ -103,7 +103,7 @@
       youtubeLink: null,
       website: null,
       intervalMessages: [],
-      messageInterval: 3,
+      messageInterval: 5,
       songstats: false,
       commandLiteral: "!",
       blacklists: {
