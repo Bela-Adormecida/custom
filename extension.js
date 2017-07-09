@@ -74,7 +74,7 @@
       timeGuard: true,
       maximumSongLength: 9,
       autodisable: false,
-      commandCooldown: 30,
+      commandCooldown: 1,
       usercommandsEnabled: true,
       thorCommand: true,
       thorCooldown: 10,
