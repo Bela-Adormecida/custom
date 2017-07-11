@@ -37,7 +37,9 @@
             }
           }
         };
+        
         bot.commands.thorCommand.command = 'itunes';
+        
         // Load the chat package again to account for any changes
         bot.loadChat();
 
