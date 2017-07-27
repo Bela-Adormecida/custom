@@ -94,7 +94,7 @@
       afkRankCheck: "ambassador",
       motdEnabled: true,
       motdInterval: 10,
-      motd: "Entrem no nosso grupo do FB http://goo.gl/8iFw1s , e curtam a nossa página http://goo.gl/gxOOmp :kiss: :sparkles:",
+      motd: "Entrem em nosso Discord, lá você poderá conversar, fazer sugestões e reclamações referente à WOP :heart: : https://discord.gg/yAwpneA",
       filterChat: false,
       etaRestriction: false,
       welcome: true,
