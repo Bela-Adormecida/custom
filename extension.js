@@ -94,7 +94,7 @@
       afkRankCheck: "ambassador",
       motdEnabled: true,
       motdInterval: 10,
-      motd: "Entrem em nosso Discord, lá você poderá conversar, fazer sugestões e reclamações referente à WOP :heart: : https://discord.gg/yAwpneA",
+      motd: "motod Hoje (12/08/2017) a partir das 16:00 horas, iremos participar de um evento junto com várias comunidades Brasileiras do plug.dj. Esperamos todos vocês lá para representarmos a WoP <3 https://plug.dj/brazil-events",
       filterChat: false,
       etaRestriction: false,
       welcome: true,
