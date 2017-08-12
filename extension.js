@@ -94,7 +94,7 @@
       afkRankCheck: "ambassador",
       motdEnabled: true,
       motdInterval: 10,
-      motd: ":sparkles: Entrem no nosso grupo do FB http://goo.gl/8iFw1s . Entrem também em nosso Discord: https://discord.gg/yAwpneA :heart:"
+      motd: "Entrem no nosso grupo do FB http://goo.gl/8iFw1s . Entrem também em nosso Discord: https://discord.gg/yAwpneA :heart:"
       filterChat: false,
       etaRestriction: false,
       welcome: true,
